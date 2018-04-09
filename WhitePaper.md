@@ -17,7 +17,7 @@
 
 ## SUMMARY
 
-  DERO is a new, experimental blockchain technology written in Golang, and based on the CryptoNote protocol, with a focus on enhanced privacy, and the implementation of smart contracts. Dero's goal is to create a unique state of the art blockchain technology with enhanced reliability, privacy, security, usability, and portability by bringing together some of the best proven technologies like the CryptoNote Protocol, and smart contracts, thereby allowing for the creation of truly private smart contracts.
+  Dero is a new, experimental blockchain technology written in Golang, and based on the CryptoNote protocol, with a focus on enhanced privacy, and the implementation of smart contracts. Dero's goal is to create a unique state of the art blockchain technology with enhanced reliability, privacy, security, usability, and portability by bringing together some of the best proven technologies like the CryptoNote Protocol, and smart contracts, thereby allowing for the creation of truly private smart contracts.
 
   A blockchain is an open, distributed ledger that can record transactions between two parties efficiently, in a verifiable, and immutable way.
 
@@ -78,18 +78,18 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 
 ## DERO VIRTUAL MACHINE
 
-​    Smart contracts on the DERO blockchain will run in a DERO Virtual Machine (DVM). The DVM is a Turing complete 256-bit Virtual Machine runtime environment for DERO smart contracts with CryptoNote Protocol privacy and additional modifications.
+​    Smart contracts on the Dero blockchain will run in a Dero Virtual Machine (DVM). The DVM is a Turing complete 256-bit Virtual Machine runtime environment for Dero smart contracts with CryptoNote Protocol privacy and additional modifications.
 ​    The DVM is unique in its ability to execute smart contracts while maintaining the privacy and fungiblity of the identities involved in the Smart Contracts. The DVM will support the Golang language for writing Smart Contracts with the possibility of Solidity in the future.
 ​    The DVM is currently in the development phase and several other features and optimizations are planned which may be added in the future.
 
 ## ROADMAP
-* Q1/2018 Dero's new unique blockchain written and full Activation. - Completed ahead of schedule
-* Q2/2018 GUI wallets, sub addresses, atomic swaps, and smart contract testing.
-* Q3/2018 Smart contract support on chain. Q3 2018. 
-* Q4/2018 Strategic market expansion.  
+* Q1/2018 - Dero's new unique blockchain written and full Activation. - Completed ahead of schedule
+* Q2/2018 - GUI wallets, sub addresses, atomic swaps, and smart contract testing.
+* Q3/2018 - Smart contract support on chain. Q3 2018. 
+* Q4/2018 - Strategic market expansion.  
 
 ## SPECIFICATIONS
-* PoW algorithm: CryptoNight
+* PoW algorithm: CryptoNight 
 * Max supply: 18.4 million for the first 8 years followed by an infinite emission rate after year 8 of ~157,000 DERO/year
 * Block reward: Smoothly varying
 * Block time: 120 seconds
@@ -121,5 +121,6 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 
 	
 
+This document will be updated based on community input and feedback.
 
-**Draft Version v2, This document will be updated based on community inputs.**
+**Draft Version v2.0**
