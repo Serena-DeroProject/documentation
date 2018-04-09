@@ -1,11 +1,11 @@
-## DERO Blockchain White Paper (Draft Version)
+## DERO Blockchain White Paper (Draft version 2)
 
-## Table of Contents
+## Table of contents
 * **SUMMARY**
 * **CHALLENGES**
   * **IDENTITY AND KYC: VERIFICATION AND LIMITING MISUSE**
-  * **VOTING: SAFE, SECURE, AND TRANSPARENT** 
-  * **ASSET MANAGEMENT: PRIVATE AND AUDITABLE**
+  * **VOTING: SAFE, SECURE, AND TRANSPARENT** 
+  * **ASSET MANAGEMENT: PRIVATE AND AUDITABLE**
   * **2FA AUTHENTICATOR: SECURE PASSWORD MANAGEMENT AND ACCESS**
   * **INTEGRATION WITH TELECOM GATEWAYS**
 * **DERO KEY FEATURES**
@@ -17,7 +17,7 @@
 
 ## SUMMARY
 
-  DERO is a new, experimental blockchain technology written in Golang with a focus on enhanced Privacy and Smart Contracts while maintaining the transparency and security of the blockchain. The goal is to create a unique state of the art blockchain technology with enhanced Reliability, Privacy, Security, Usability, and Portability by bringing together some of the best proven technologies like CryptoNote Protocol and Smart Contracts, thereby allowing for the creation of Private Smart Contracts.
+  DERO is a new, experimental blockchain technology written in Golang based on the CryptoNote protocol with a focus on enhanced privacy and the implementation of smart contracts. The goal is to create a unique state of the art blockchain technology with enhanced Reliability, Privacy, Security, Usability, and Portability by bringing together some of the best proven technologies like CryptoNote Protocol and Smart Contracts, thereby allowing for the creation of Private Smart Contracts.
 
   Blockchain is an open, distributed ledger that can record transactions between two parties efficiently, and in a verifiable and permanent way.
 
@@ -52,7 +52,7 @@ To register for the voting process, an individual must apply to the certifying a
 
 A smart contract of this nature will, of course, require flexibility, and the ability to be reprogrammed to suit the needs of any party that chooses to utilize a private smart voting contract. To that end, the Dero development team is working to keep as much flexibility in the system as possible. 
 
-* **ASSET MANAGEMENT: PRIVATE AND AUDITABLE** \
+* **Asset management: private and auditable** \
     With Dero, assets can be recorded, distributed, or traded on the blockchain. Perhaps the most critical issue today facing asset management on the blockchain is privacy. Consider for a moment how assets are recorded today. Most assets are recorded in a private or centralized database like you may find at the Department of Motor Vehicles. Organizations or departments often have limited hours, cumbersome access to information policies, and substantial overhead costs. Bringing asset management to Dero’s blockchain will allow individuals unrestricted use of their own data, by allowing 24/7 access to anything they have stored on Dero’s blockchain while simultaneously offering unparalleled privacy.
     
 Any individual or organization that choose Dero’s blockchain for asset management will benefit from the highest levels of privacy by utilizing the CryptoNote protocol and complete SSL implementation across the entire network, among other critical features. For audits or tax purposes, all you have to do is provide a simple and convenient viewkey that will list all relevant history from the wallet. This view key can be easily programmed into tax software to reduce cost and human error, while insuring accuracy. It’s important to note that all details of wallets are entirely hidden from the rest of the network. As such, it is the individual wallet holders responsibility to make their relevant tax information known as required. 
@@ -82,9 +82,9 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 ​    DVM is in the development phase, and several other features and optimizations are planned which may be added in the future.
 
 ## ROADMAP
-* DERO Blockchain full Activation: Q1 2018. - Completed ahead of schedule
-* GUI Wallets, Sub Addresses, Atomic Swap, Smart Contract Testing: Q2 2018.
-* Smart Contract support on chain. Q3 2018. 
+* Dero's new unique blockchain written and full Activation: Q1 2018. - Completed ahead of schedule
+* GUI Wallets, Sub addresses, atomic swaps, smart contract testing: Q2 2018.
+* Smart contract support on chain. Q3 2018. 
 * Strategic market expansion.  
 
 ## SPECIFICATIONS
@@ -114,10 +114,11 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 * Regular audits and updates of the core cryptography to negate the benefits of quantum computations.
 
 ## DERO PROJECT COMPANY :
-   Plan to incorporate a company which will market, develop, maintain, and expand DERO.
-Company would hire more developers, expand the marketing team, add advisors, and would be representing DERO to the world.
+   Dero plans to incorporate a company that will oversee the governance of the Dero Project, and guide development.
+   
+   Some of Dero's plans in this area include: marketing, new research and development, maintaining, and expanding DERO. The company will be the public face of Dero with the goal of hiring more developers, expanding the marketing team, adding advisors, and will be generally representing DERO to the world.
 
 	
 
 
-**Draft Version, This document will be updated based on community inputs.**
+**Draft Version v2, This document will be updated based on community inputs.**
