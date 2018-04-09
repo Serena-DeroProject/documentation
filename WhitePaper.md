@@ -17,16 +17,16 @@
 
 ## SUMMARY
 
-  DERO is a new, experimental blockchain technology written in Golang based on the CryptoNote protocol with a focus on enhanced privacy and the implementation of smart contracts. The goal is to create a unique state of the art blockchain technology with enhanced reliability, privacy, security, usability, and portability by bringing together some of the best proven technologies like the CryptoNote Protocol, and smart contracts, thereby allowing for the creation of truly private smart contracts.
+  DERO is a new, experimental blockchain technology written in Golang, and based on the CryptoNote protocol, with a focus on enhanced privacy, and the implementation of smart contracts. Dero's goal is to create a unique state of the art blockchain technology with enhanced reliability, privacy, security, usability, and portability by bringing together some of the best proven technologies like the CryptoNote Protocol, and smart contracts, thereby allowing for the creation of truly private smart contracts.
 
-  A blockchain is an open, distributed ledger that can record transactions between two parties efficiently, and in a verifiable and permanent way.
+  A blockchain is an open, distributed ledger that can record transactions between two parties efficiently, in a verifiable, and immutable way.
 
   The CryptoNote protocol uses a distributed public ledger that records all balances and transactions of its in-built currency like Bitcoin. Unlike Bitcoin, CryptoNote's transactions cannot be followed through the blockchain in a way that reveals who sent or received coins.
 
-  A smart contract is a protocol intended to facilitate, verify, and enforce the negotiation or execution of a digital contract. Smart contracts allow for direct contract execution without a third party. One of the goals of a smart contract is to significantly increase contract security while simultaneously reducing costs associated with traditional contracts. hese transactions are irreversible, otherwise known as immutable. Smart contracts were first proposed by Nick Szabo in 1994.
+  A smart contract is a protocol intended to facilitate, verify, and enforce the negotiation or execution of a digital contract. Smart contracts allow for direct contract execution without a third party. One of the goals of a smart contract is to significantly increase contract security while simultaneously reducing costs associated with traditional contracts. These transactions are irreversible, otherwise known as immutable. Smart contracts were first proposed by Nick Szabo in 1994.
 
 
-  For more details about Blockchain, CryptoNote Protocol, and Smart Contract see:
+  For more details about blockchain technology, the CryptoNote Protocol, and smart contracts please see:
   * https://en.wikipedia.org/wiki/Blockchain
   * https://en.wikipedia.org/wiki/CryptoNote
   * https://cryptonote.org/whitepaper.pdf
@@ -36,7 +36,7 @@
 Some brief examples of what a smart contract is capable of managing without third-party intervention include: access authorization to a physical object like a building or internet-of-things (IoT) devices, asset management, trading, ticket purchasing, or share distribution. In some instances, an individual or organization would prefer not to reveal the details of the transaction or contract (i.e. participants, amounts, and contract terms) to the rest of the world. Dero brings true privacy to smart contracts for the first time on any blockchain.
 
 
-Truly private smart contracts are a unique feature offered by DERO that other projects to date (April.1/2018) do not offer. Dero accomplishes this by keeping all ascepts of the transaction, smart contract, and users details private on the original blockchain without the need to trust sensitive or otherwise private information to second layer or off-chain solutions.
+Truly private smart contracts are a unique feature offered by DERO that other projects to date (April.10/2018) do not offer. Dero accomplishes this by keeping all aspects of the transaction, smart contract, and users details private on the original blockchain without the need to trust sensitive or otherwise private information to second layer or off-chain solutions.
 
 ## CHALLENGES
 * **Identification and know-your-client (KYC):**\
@@ -78,19 +78,19 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 
 ## DERO VIRTUAL MACHINE
 
-​    Smart Contracts on the DERO blockchain will run in a DERO Virtual Machine (DVM). DVM is a Turing complete 256-bit Virtual Machine runtime environment for DERO Smart Contracts with CryptoNote Protocol Privacy and additional modifications.
-​    DVM is unique in its ability to execute Smart Contracts while maintaining the privacy and fungiblity of the identities involved in the Smart Contracts. DVM will support the Golang language for writing Smart Contracts with the possibility of Solidity in the future.
-​    DVM is in the development phase, and several other features and optimizations are planned which may be added in the future.
+​    Smart contracts on the DERO blockchain will run in a DERO Virtual Machine (DVM). The DVM is a Turing complete 256-bit Virtual Machine runtime environment for DERO smart contracts with CryptoNote Protocol privacy and additional modifications.
+​    The DVM is unique in its ability to execute smart contracts while maintaining the privacy and fungiblity of the identities involved in the Smart Contracts. The DVM will support the Golang language for writing Smart Contracts with the possibility of Solidity in the future.
+​    The DVM is currently in the development phase and several other features and optimizations are planned which may be added in the future.
 
 ## ROADMAP
-* Dero's new unique blockchain written and full Activation: Q1 2018. - Completed ahead of schedule
-* GUI Wallets, Sub addresses, atomic swaps, smart contract testing: Q2 2018.
-* Smart contract support on chain. Q3 2018. 
-* Strategic market expansion.  
+* Q1/2018 Dero's new unique blockchain written and full Activation. - Completed ahead of schedule
+* Q2/2018 GUI wallets, sub addresses, atomic swaps, and smart contract testing.
+* Q3/2018 Smart contract support on chain. Q3 2018. 
+* Q4/2018 Strategic market expansion.  
 
 ## SPECIFICATIONS
 * PoW algorithm: CryptoNight
-* Max supply: 18.4 million for first 8 years, Infinite ~157,000 DERO/year
+* Max supply: 18.4 million for the first 8 years followed by an infinite emission rate after year 8 of ~157,000 DERO/year
 * Block reward: Smoothly varying
 * Block time: 120 seconds
 * Difficulty: Retargets at every block
