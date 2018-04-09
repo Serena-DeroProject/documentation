@@ -17,13 +17,14 @@
 
 ## SUMMARY
 
-  DERO is a new, experimental blockchain technology written in Golang based on the CryptoNote protocol with a focus on enhanced privacy and the implementation of smart contracts. The goal is to create a unique state of the art blockchain technology with enhanced Reliability, Privacy, Security, Usability, and Portability by bringing together some of the best proven technologies like CryptoNote Protocol and Smart Contracts, thereby allowing for the creation of Private Smart Contracts.
+  DERO is a new, experimental blockchain technology written in Golang based on the CryptoNote protocol with a focus on enhanced privacy and the implementation of smart contracts. The goal is to create a unique state of the art blockchain technology with enhanced reliability, privacy, security, usability, and portability by bringing together some of the best proven technologies like the CryptoNote Protocol, and smart contracts, thereby allowing for the creation of truly private smart contracts.
 
-  Blockchain is an open, distributed ledger that can record transactions between two parties efficiently, and in a verifiable and permanent way.
+  A blockchain is an open, distributed ledger that can record transactions between two parties efficiently, and in a verifiable and permanent way.
 
-  CryptoNote Protocol uses a distributed public ledger that records all balances and transactions of its in-built currency like Bitcoin. Unlike Bitcoin, CryptoNote's transactions cannot be followed through the blockchain in a way that reveals who sent or received coins. The only people with access to the whole set of data about a transaction are the sender or receiver of the transaction.
+  The CryptoNote protocol uses a distributed public ledger that records all balances and transactions of its in-built currency like Bitcoin. Unlike Bitcoin, CryptoNote's transactions cannot be followed through the blockchain in a way that reveals who sent or received coins.
 
-  A smart Contract is a protocol intended to facilitate, verify, and enforce the negotiation or execution of a digital contract. Smart contracts allow for direct contract execution without a third party. These transactions are trackable and irreversible. Smart contracts were first proposed by Nick Szabo in 1994.
+  A smart contract is a protocol intended to facilitate, verify, and enforce the negotiation or execution of a digital contract. Smart contracts allow for direct contract execution without a third party. One of the goals of a smart contract is to significantly increase contract security while simultaneously reducing costs associated with traditional contracts. hese transactions are irreversible, otherwise known as immutable. Smart contracts were first proposed by Nick Szabo in 1994.
+
 
   For more details about Blockchain, CryptoNote Protocol, and Smart Contract see:
   * https://en.wikipedia.org/wiki/Blockchain
@@ -66,7 +67,7 @@ Any individual or organization that choose Dero’s blockchain for asset managem
 ## DERO KEY FEATURES
 
 - **CryptoNote privacy:** CryptoNote currencies use a distributed public ledger that records all balances and transactions of its in-built currency like Bitcoin. Unlike Bitcoin, CryptoNote’s transactions cannot be followed through the blockchain in a way that reveals who sent or received coins. Dero utilizes all aspects of the CryptoNote protocol’s privacy features in its new blockchain technology to protect the identities of all parties involved in a transaction.
-- **Smart contracts:** A smart contract is a digital self-executing contract that is capable of enforcing the terms laid out by all participants in the contract. The goal of smart contracts is to significantly increase contract security while simultaneously reducing costs associated with traditional contracts.
+- **Smart contracts:** A smart contract is a digital self-executing contract that is capable of enforcing the terms laid out by all participants in the contract. One of the goals of a smart contract is to significantly increase contract security while simultaneously reducing costs associated with traditional contracts.
 - **Atomic swaps:** Atomic swaps make the exchange of one cryptocurrency for another possible without the need for a trusted third-party. To prevent one party from failing to send their coins, atomic swaps use something called hash time-locked contacts (HTLCs) to enable a trustless trading system.
 - **Mobile and offline wallets:** As with any currency, multiple forms of storage and varying degrees of financial availability are required. Dero is bringing a complete spectrum of wallet storage options to users by providing solutions that range from mobile wallets on mobile devices to offline 2FA (Two Factor Authentication) biometric identification protected hardware wallets.
 - **Lightweight wallet:** Instead of downloading the entire blockchain, a lightweight wallet connects to randomly selected decentralized nodes to utilize the data stored there. This dramatically reduces the amount of data required to transact on the network while maintaining the security of your private keys on your device, not the node the device is connected to.
